@@ -8,7 +8,7 @@ Ce projet est destiné a **une évaluation dans le cadre** de _l'obtention de ma
 
 ## Some code
 
-```document.addEventListener('DOMContentLoaded', () => {
+'document.addEventListener('DOMContentLoaded', () => {
     const contactForm = document.getElementById('contact-form');
     const contactList = document.getElementById('contact-list');
 
@@ -45,4 +45,4 @@ function deleteContact(button) {
 function deleteContact(button) {
     const li = button.parentElement;
     li.remove();
-}```
+}'
