@@ -4,4 +4,4 @@
 
 ### Étudiant Next-U
 
-Ce projet est destiné a ** une évaluation dans le cadre ** de * l'obtention de ma première année *
+Ce projet est destiné a **une évaluation dans le cadre** de _l'obtention de ma première année_
