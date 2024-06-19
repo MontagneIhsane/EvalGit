@@ -34,14 +34,3 @@ Ce projet est destiné a **une évaluation dans le cadre** de _l'obtention de ma
 
         contactList.appendChild(li);
     }
-});
-
-function deleteContact(button) {
-    const li = button.parentElement;
-    li.remove();
-}
-
-function deleteContact(button) {
-    const li = button.parentElement;
-    li.remove();
-}
