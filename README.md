@@ -8,9 +8,8 @@ Ce projet est destiné a **une évaluation dans le cadre** de _l'obtention de ma
 
 ## Some code
 
-document.addEventListener('DOMContentLoaded', () => {
-    const contactForm = document.getElementById('contact-form');
-    const contactList = document.getElementById('contact-list');
+
+
 
     contactForm.addEventListener('submit', (event) => {
         event.preventDefault();
